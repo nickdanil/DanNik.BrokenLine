@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DanNik.BrokenLine.BusinessLogic\DanNik.BrokenLine.BusinessLogic.csproj" />
+    <ProjectReference Include="..\DanNik.BrokenLine.BusinessObjects\DanNik.BrokenLine.BusinessObjects.csproj" />
+    <ProjectReference Include="..\DanNik.BrokenLine.Common\DanNik.BrokenLine.Common.csproj" />
+  </ItemGroup>
+
+</Project>
